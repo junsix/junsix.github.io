@@ -1,5 +1,5 @@
 ---
-title: "A Lightweight Security Scheme for Wireless Sensor Networks"
+title: "Can differential privacy practically protect collaborative deep learning inference for IoT?"
 collection: publications
 permalink: /publication/2022-9-8-Wireless
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
