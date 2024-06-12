@@ -1,5 +1,3 @@
-
-코드 복사
 ---
 title: "SMASG: Secure Mobile Authentication Scheme for Global Mobility Network"
 collection: publications
