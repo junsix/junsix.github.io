@@ -11,3 +11,9 @@ I’m an Assistant Professor in School of Computer and Information Engineering a
 
 In our [research group](https://sites.google.com/view/cncslab-kwu/cncs-lab), we are always looking for excellent undergraduate and graduate students.
 
+---
+
+ *I want to help many people around the world through research.* 
+
+[Calendar](https://calendar.google.com/calendar/u/0/embed?src=ilovehealthy.jh@gmail.com&ctz=Asia/Seoul)
+
