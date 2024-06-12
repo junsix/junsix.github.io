@@ -1,7 +1,7 @@
 
 코드 복사
 ---
-title: "A New Lightweight and Anonymous Authentication Scheme for IoT"
+title: "SMASG: Secure Mobile Authentication Scheme for Global Mobility Network"
 collection: publications
 permalink: /publication/2022-3-8-IEEEACCESS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
