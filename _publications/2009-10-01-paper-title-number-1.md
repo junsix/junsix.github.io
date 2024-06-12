@@ -3,7 +3,7 @@ title: "A Study on Partially Homomorphic Encryption"
 collection: publications
 permalink: /publication/A Study on Partially Homomorphic Encryption
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-03-05
 venue: 'IMCOM'
 citation: '**Jihyeon Ryu**, Keunok Kim, Dongho Won.(2023). “A Study on Partially Homomorphic Encryption.” *IMCOM*. 1-4.'
 ---
