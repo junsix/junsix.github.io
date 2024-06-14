@@ -7,6 +7,4 @@ venue: 'Korea Information Processing Society'
 citation: '<b>Jihyeon Ryu</b>, Dongho Won. (2021). "A Survey of Signature System using Bilinear Pairing." <i>Korea Information Processing Society</i>.'
 ---
 
-Recommended citation: **Jihyeon Ryu**, Dongho Won. (2021). "A Survey of Signature System using Bilinear Pairing." *Korea Information Processing Society*.
-
 [Download paper here](http://janicejihyeon.github.io/files/Bilinear.pdf)
